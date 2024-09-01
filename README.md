@@ -66,7 +66,7 @@ sudo ./autobuild.sh
 
 ## 运行案例
 
-这里以一个简单的回声服务器作为案例
+这里以一个简单的回声服务器作为案例：
 
 ```shell
 cd ./example
@@ -74,4 +74,6 @@ make
 ./EchoServer
 ```
 注：如果make时报错：make: 'testserver' is up to date.  则说明之前已经编译过了，并且此次编译和之前编译的结果没有变化。
+
+![image](https://github.com/user-attachments/assets/f878f83d-b6f2-4285-b94e-d0e63aece11c)
 
