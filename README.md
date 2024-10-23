@@ -81,7 +81,7 @@ make
 
 ## 模块讲解
 依据个人对项目的理解自制的流程思路（精华）：
-![image](https://github.com/user-attachments/assets/9ea4c818-72a5-4d07-9d83-831f0bdaa5c1)
+![image](https://github.com/user-attachments/assets/ce75c41b-78d3-4290-af0c-e784e787294d)
 ![image](https://github.com/user-attachments/assets/1461ab48-e017-4b0d-898e-ae13e7941806)
 ![image](https://github.com/user-attachments/assets/75ec42b0-04d6-493a-a6d0-784cef4c67e8)
 ![image](https://github.com/user-attachments/assets/cb4960ed-de08-4ee3-8adf-1db37bc5eca7)
